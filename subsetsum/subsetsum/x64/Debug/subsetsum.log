@@ -1,0 +1,5 @@
+﻿  subsetsum.cpp
+D:\study\算法\作业\终\subsetsum\subsetsum\subsetsum\subsetsum.cpp(149,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\算法\作业\终\subsetsum\subsetsum\subsetsum\subsetsum.cpp(162,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\算法\作业\终\subsetsum\subsetsum\subsetsum\subsetsum.cpp(163,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  subsetsum.vcxproj -> D:\study\算法\作业\终\subsetsum\subsetsum\x64\Debug\subsetsum.exe

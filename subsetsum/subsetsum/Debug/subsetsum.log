@@ -1,0 +1,5 @@
+﻿  subsetsum.cpp
+subsetsum.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_execute，函数 _main 中引用了该符号
+subsetsum.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_plan_dft_1d，函数 _main 中引用了该符号
+subsetsum.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_destroy_plan，函数 _main 中引用了该符号
+D:\study\算法\作业\终\subsetsum\subsetsum\Debug\subsetsum.exe : fatal error LNK1120: 3 个无法解析的外部命令
